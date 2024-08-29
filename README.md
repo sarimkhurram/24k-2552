@@ -1,8 +1,8 @@
 # 24k-2552
 
-![My image](profilepicture.png)
+![My image](profilpicture.jpg)
 ### MY Introduction :
-- My name is sarim Khurram.
+- My name is Sarim Khurram.
 - Age 19 years old.
 - done O/A LEVEL.
-- Know web development,python and c++
+- Know web development, python and c++
