@@ -1,6 +1,6 @@
 # 24k-2552
 
-![My image](profilpicture.jpg)
+![My image](profilepicture.jpg)
 ### MY Introduction :
 - My name is Sarim Khurram.
 - Age 19 years old.
